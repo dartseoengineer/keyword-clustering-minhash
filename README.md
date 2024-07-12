@@ -1,1 +1,1 @@
-# keyword-clustering-minhash
+# SEO Keyword Clustering by MinHash technique
