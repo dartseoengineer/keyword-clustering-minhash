@@ -67,7 +67,6 @@ Keywords without URLs will have a cluster ID of `-1`.
 
 ## Developed by
 
-Dart SEO  
 Twitter: [@dartseo](https://twitter.com/dartseo)  
 Telegram: [Advanced SEO Blog](https://t.me/advancedseoblog)
 
