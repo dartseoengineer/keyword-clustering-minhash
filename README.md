@@ -1,4 +1,4 @@
-# Keyword Clustering with MinHash
+# SEO Keyword Clustering with MinHash
 
 This Python script clusters keywords based on the similarity of their associated URLs using MinHash and MinHashLSH. The clustering process helps identify keywords that return similar search engine result pages (SERPs), which can be useful for SEO and content optimization strategies.
 
